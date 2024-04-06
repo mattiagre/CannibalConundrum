@@ -1,0 +1,17 @@
+{
+  "block.cannibal.bone_trap": "Trappola d'ossa",
+  "block.cannibal.skull_lamp": "Lampada di teschio",
+  "cannibal.damage_source.bone_trap": "%1$s è inciampato in una trappola",
+  "creativemodetab.clockwork": "Cannibal Conundrum",
+  "death.attack.cannibal.damage_source.bone_trap": "%1$s è inciampato in una trappola",
+  "effect.cannibal.cannibalism": "Cannibalismo",
+  "entity.cannibal.cannibal": "Cannibale",
+  "entity.cannibal.cannibal_butcher": "Macellaio cannibale",
+  "item.cannibal.bone_mask": "Maschera d'ossa",
+  "item.cannibal.bone_sword": "Spada d'ossa",
+  "item.cannibal.cannibal_butcher_spawn_egg": "Uovo generatore di macellaio cannibale",
+  "item.cannibal.cannibal_spawn_egg": "Uovo generatore di cannibale",
+  "item.cannibal.fresh_chili": "Chili di carne fresca",
+  "item.cannibal.fresh_flesh": "Carne fresca",
+  "item.cannibal.stone_saw": "Motosega di pietra"
+}
